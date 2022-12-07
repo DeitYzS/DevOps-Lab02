@@ -236,5 +236,5 @@ Emoji:
 
 
 🐳 642115003 Kan Katpark   
-🫣 642115004 Kitdanai Palee
+:star: 642115004 Kitdanai Palee
 
