@@ -245,4 +245,5 @@ Emoji:
 :thinking:
 
 
-🐳 642115003 Kan Katpark 
+🐳 642115003 Kan Katpark   
+🫣 642115004 Kitdanai Palee
