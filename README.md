@@ -126,18 +126,6 @@ Content Cell  | Content Cell | Content Cell
         * Sub-nested bullet etc
 * Bullet list item 2
 
-~~~
- Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
--OR-
- Markup : - Bullet list
-              - Nested bullet
-                  - Sub-nested bullet etc
-          - Bullet list item 2 
-~~~
-
 1. A numbered list
     1. A nested numbered list
     2. Which is numbered
@@ -242,5 +230,7 @@ Emoji:
 
     Markup : Code appears between colons :EMOJICODE:
 
-:thinking:
+:thinking: 
+
+
 
